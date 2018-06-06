@@ -1,6 +1,7 @@
 
 
--- TRANSACCIONAL CMR
+----- TRANSACCIONAL CMR
+
 DROP TABLE CAS_TRXCMR_12M;
 CREATE TABLE CAS_TRXCMR_12M AS                                                           
 SELECT B.RUT
